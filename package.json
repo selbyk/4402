@@ -1,0 +1,8 @@
+{
+  "name": "4402",
+  "version": "0.0.1",
+  "description": "Project for 4402",
+  "dependencies": {
+    "express": "^4.9.0"
+  }
+}
